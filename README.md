@@ -6,7 +6,7 @@ I'm Mateo, a 20 years old developer.
 - 💽 MySQL, MariaDB, Mongo, Postgres
 
 ## Frameworks
-- 🌱 NestJS
+- 🌱 NestJS, React, NextJS
 
 ## Arquitecture
 - Ports and Adapters
