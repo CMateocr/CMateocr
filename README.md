@@ -1,7 +1,12 @@
 ## Hey! 👋
-I'm Mateo, a 19 years old developer.
+I'm Mateo, a 20 years old developer.
 
-## SKills
+## Skills
 - 👨‍💻 TypeScript, JavaScript, Java
 - 💽 MySQL, MariaDB, Mongo
-- 🌱 I’m currently learning NestJS, React
+
+## Frameworks
+- 🌱 NestJS
+
+## Arquitecture
+- Ports and Adapters
