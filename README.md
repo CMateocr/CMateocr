@@ -8,5 +8,5 @@ I'm Mateo, a 20 years old developer.
 ## Frameworks
 - 🌱 NestJS, React, NextJS
 
-## Arquitecture
+## Architecture
 - Ports and Adapters
