@@ -20,7 +20,7 @@ PostgreSQL · MongoDB · MySQL · MariaDB
 Hexagonal Architecture · DDD · Docker · AWS (S3)
 
 ### Featured Projects
-- **EventGo** – Cross-platform event discovery platform (React Native + Next.js)
+- **EventGo** – Cross-platform event discovery platform (Next.js)
 - **Redsky API** – Social media aggregation API built with NestJS
 
 ### Let's Connect
